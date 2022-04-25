@@ -1,4 +1,4 @@
-# DevNet-Expert. 
+# DevNet Expert. 
 Study Repository For the Cisco DevNet Expert Exam. 
 
 Exam Topics. 
